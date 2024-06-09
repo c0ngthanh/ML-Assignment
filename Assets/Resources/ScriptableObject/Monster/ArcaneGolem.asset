@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c5b86760e131804f9d142f6621e8503, type: 3}
+  m_Name: ArcaneGolem
+  m_EditorClassIdentifier: 
+  monsterName: ArcaneGolem
+  ID: 1003
+  level: 1
+  type: 3
+  job: 3
+  star: 4
+  baseHP: 1050
+  baseATK: 100
+  baseDEF: 70
+  baseSpeed: 60
+  baseER: 100
+  baseEnergy: 100
+  baseHR: 100
+  baseCritRate: 25
+  baseCritDame: 150
